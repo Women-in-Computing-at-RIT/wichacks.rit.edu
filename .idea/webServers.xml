@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e495db50-79f4-4982-b74c-61b1411de73d" name="WiCHacks Server" url="http://wic-hacks.rit.edu">
+        <fileTransfer host="wic-hacks.rit.edu" port="22" privateKey="C:\Users\Claire\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
