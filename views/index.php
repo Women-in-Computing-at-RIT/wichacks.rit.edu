@@ -1,33 +1,14 @@
-	<div class="divider"></div>
-  <div class="section">
-    <h1>WiCHacks 2017 Registration Form!</h1>
-    <p class="large">
-      If you are interested in WiCHacks, an all-women hackathon at the Rochester Institute of Technology, then fill out this google form          below!
-    </p>
-    <p class="large">
-       <a href="https://wichacks2017.eventbrite.com/">WiCHacks 2017 Registration Form</a>
-    </p>
-    <p>
-    Sign up to Volunteer <a href="https://docs.google.com/a/g.rit.edu/forms/d/1Bv_7v30WgLUKK5T5nLBEg5uMvsYfnSHdc7zvIOavdNk/edit">here!</a>
-    </p>
-    <h3>Reserve your bus seat<a href="https://www.sharethebus.com/events/wichacks-w17?outgoingCity=Troy%20-%20Rensselaer%20Polytechnic%20Institute&tripType=outgoingOneway"> here</a>!</h3>
-    <p>
-      We have buses running to nearby schools and cities so check out which route works for you!
-      <b>These seats are first come first serve and you must be registered in eventbrite before claiming a seat. </b>
-    </p>
-    <p>Submit your resume to  <a href="https://www.dropbox.com/request/RhcE0gGsQen0jDq60uCK">this dropbox</a>!</p>
-  </div>
+
   <div class="divider"></div>
 	<div class="section" id="thats-all-folks">
-		<h2>WiCHacks 2016 Stats</h2>
-		<p>WiCHacks16 was a great turnout! We had 26 Newbie Track participants and 102 confirmed Hackers!
-			 To see the cool projects that were made during the hackathon, check out the official <a href="http://wichacks-2016.devpost.com/">
-			 DevPost</a>! Curious about attending a hackathon? Browse through photos from
-			 WiCHacks16 to paint a better picture of the event!</p>
+		<h2>WiCHacks 2017</h2>
+		<p>WiCHacks17 was awesome!
+			 To see the cool projects that were made during the hackathon, check out the official <a href="https://wichacks2017.devpost.com/submissions/">
+			 DevPost</a>! Curious about attending a hackathon? Take a look at these pictures from
+			 WiCHacks17 to paint a better picture of the event!</p>
 			 <ul>
-			 	<li><a href="https://www.facebook.com/wic.hacks.rit/photos">WiCHacks16 Photos</a></li>
-			 	<li><a href="https://www.facebook.com/media/set/?set=a.1073909819326362.1073742096.591858720864810&type=3">MLH WiCHacks16 Photos</a></li>
-			 	<li><a href="https://www.facebook.com/media/set/?set=a.1075695272481150.1073742099.591858720864810&type=3">MLH WiCHacks16 Photobooth</a></li>
+			 	<li><a href="https://www.facebook.com/wic.hacks.rit/posts/1204587552987423">WiCHacks 2017</a></li>
+			 	<li><a href="https://www.facebook.com/pg/MajorLeagueHacking/photos/?tab=album&album_id=1392712220779452">MLH WiCHacks Photos</a></li>
 			 </ul>
 	</div>
 
@@ -77,228 +58,13 @@
 	<div class="section">
 		<h2>Press</h2>
 		<ul>
-			<li><a href="http://college.usatoday.com/2015/09/11/all-girl-hackathons-on-the-rise-the-latest-at-the-university-of-maryland">All girls hackathons are on the rise</a></li>
-      <li><a href="http://imgur.com/a/BNa3b">Let's Talk about Hacking</a></li>
-      <li><a href="http://ideas.ted.com/teen-hacker-jennie-lamere">TED Q&A with a previous WiCHacks Head</a></li>
-      <li><a href="https://blog.justinwflory.com/2016/03/why-i-love-wichacks/">Justin's Blog: Why I Love WiCHacks</a></li>
-      <li><a href="https://www.rit.edu/news/story.php?id=54739">WiCHacks Committe Head Student Spotlight</a></li>
-      <li><a href="https://www.rit.edu/news/story.php?id=54696&source=enewsletter">RIT University News on WiCHacks</a></li>
-      <li><a href="https://www.youtube.com/watch?v=tacEIv64Jtk">Channel 8 News Report</a></li>
+			<li><a href="https://www.youtube.com/watch?v=B5Yg08AZxv4&feature=youtu.be">RIT on TV: WiCHacks 2017</a></li>
+			<li><a href="http://foxrochester.com/news/good-day-rochester/rit-women-in-computings-free-hackathon">WiCHacks on Fox Rochester</a></li>
+			<li><a href="http://13wham.com/news/local/rit-hosts-annual-hack-a-thon">RIT Hosts Local Hack-a-thon</a></li>
+			<li><a href="http://www.rochesterfirst.com/news/local-news/rit-holds-wic-hacks-competition/663265505">RIT holds WiC-hacks competition</a></li>
 		</ul>
 	</div>
 
-	<div class="divider" id="schedule"></div>
-	<div class="section">
-		<h2>Schedule</h2>
-		<!-- <p>WiCHakcs 2017 schedule is not yet available. Please check back closer to the event.</p> -->
-	  <table>
-		<thead>
-		<tr>
-			<th class="activity">
-				<b>Activity</b>
-			</th>
-			<th class="time">
-				<b>Approximate Time</b>
-			</th>
-		</tr>
-   <tr>
-			<td class="activity">
-				<b>Newbie Day</b>
-			</td>
-			<td class="time">
-				<b></b>
-			</td>
-		</tr>
-		</thead>
-		<tbody class>
-   <tr>
-			<td class="activity">
-				Newbie Track Begins
-			</td>
-			<td class="time">
-				5:00 PM
-			</td>
-		</tr>
-   <tr>
-			<td class="activity">
-				Dinner
-			</td>
-			<td class="time">
-				7:00 PM
-			</td>
-		</tr>
-   <tr>
-			<td class="activity">
-				Newbie Track Ends
-			</td>
-			<td class="time">
-				9:00 PM
-			</td>
-		</tr>
-   <tr>
-			<td class="activity">
-				<b>Day 1</b>
-			</td>
-			<td class="time">
-				<b></b>
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				Hackers arrive</br>
-        Team Formation
-			</td>
-			<td class="time">
-				10:00 AM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				 Kickoff</br>
-         API Talks
-			</td>
-			<td class="time">
-				11:00 AM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				Lunch </br>
-        Final Team Formation
-			</td>
-			<td class="time">
-				11:30 PM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-			  Hacking Begins
-			</td>
-			<td class="time">
-				12:00 PM
-			</td>
-		</tr>
-   <tr>
-     <td class="activity">
-       Workshops/Tech Talks Begin
-     </td>
-     <td class="time">
-       1:00  PM
-     </td>
-   </tr>
-   <tr>
-     <td class="activity">
-       Dinner
-     </td>
-     <td class="time">
-       5:00 PM
-     </td>
-   </tr>
-   <tr>
-     <td class="activity">
-       Major League Hacking Mini Event
-     </td>
-     <td class="time">
-       6:00 PM
-     </td>
-   </tr>
-   <tr>
-     <td class="activity">
-       Snack
-     </td>
-     <td class="time">
-       9:00 PM
-     </td>
-   </tr>
-   <tr>
-     <td class="activity">
-       Minors leave campus
-     </td>
-     <td class="time">
-       Midnight
-     </td>
-   </tr>
-
-		<tr>
-			<td class="activity">
-				<b>Day 2</b>
-			</td>
-			<td class="time">
-				<b></b>
-			</td>
-		</tr>
-  <tr>
-     <td class="activity">
-       Snack
-     </td>
-     <td class="time">
-       1:00 AM
-     </td>
-   </tr>
-   <tr>
-     <td class="activity">
-       Minors may return to campus
-     </td>
-     <td class="time">
-       6:00 AM
-     </td>
-   </tr>
-
-		<tr>
-			<td class="activity">
-				Breakfast
-			</td>
-			<td class="time">
-				8:00 AM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				30 Minute Warning
-			</td>
-			<td class="time">
-				11:30 AM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				Hacking Ends <br />
-        Lunch
-			</td>
-			<td class="time">
-				12:00 PM
-			</td>
-		</tr>
-		<tr>
-			<td class="activity">
-				Expo and Judging Begins
-			</td>
-			<td class="time">
-				1:00 PM
-			</td>
-		</tr>
-    <tr>
-      <td class="activity">
-        Awards Ceremony and Closing Remarks
-      </td>
-      <td class="time">
-        2:30 PM
-      </td>
-    </tr>
-    <tr>
-      <td class="activity">
-        Hackathon Ends
-      </td>
-      <td class="time">
-        3:00 PM
-      </td>
-    </tr>
-		</tbody>
-		</table>
-		<div class="last-updated">
-			last updated: 12/11/2016
-		</div>
-	</div>
 
 	<div class="divider" id="faqs"></div>
 	<div class="section">
