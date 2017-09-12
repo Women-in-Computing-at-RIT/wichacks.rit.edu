@@ -76,7 +76,7 @@
 		        </ul>
 		    </li>
 		    <li class="divider"></li>
-	      	<li class="register"><a href="https://docs.google.com/forms/d/1EHgpl1g3U0VyfncGIO2OzPtxvENd4LzkJ_yln9IJ35Q/viewform">Keep Me Posted!</a></li>
+	      	<li class="register"><a href="https://docs.google.com/a/g.rit.edu/forms/d/1m9iiJHQfPDUsvzSHVKbVS4ROC8WTn_kIe1qYK5D0mAo">Keep Me Posted!</a></li>
 	      	<li class="divider"></li>
 	    </ul>
 

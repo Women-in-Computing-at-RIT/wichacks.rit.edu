@@ -32,8 +32,8 @@
 			<span class="italics white">Hosted by </span><a href="http://www.rit.edu/">Rochester Institute of Technology</a>
 		</p>
 		<div class="event-details">
-			<p class="event-info"><i class="fi-calendar symbol"></i>Saturday and Sunday, February 25th and 26th, 2017</p>
-			<p class="event-info"><i class="fi-marker symbol"></i>Golisano College</p>
+			<p class="event-info"><i class="fi-calendar symbol"></i>TBD</p>
+			<p class="event-info"><i class="fi-marker symbol"></i>TBD</p>
 			<p class="event-info"><i class="fi-dollar symbol"></i>Free (registration required)</p>
 		</div>
 		<p></p>

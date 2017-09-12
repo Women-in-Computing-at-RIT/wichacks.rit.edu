@@ -5,11 +5,13 @@
 		<p>WiCHacks17 was awesome!
 			 To see the cool projects that were made during the hackathon, check out the official <a href="https://wichacks2017.devpost.com/submissions/">
 			 DevPost</a>! Curious about attending a hackathon? Take a look at these pictures from
-			 WiCHacks17 to paint a better picture of the event!</p>
-			 <ul>
-			 	<li><a href="https://www.facebook.com/wic.hacks.rit/posts/1204587552987423">WiCHacks 2017</a></li>
-			 	<li><a href="https://www.facebook.com/pg/MajorLeagueHacking/photos/?tab=album&album_id=1392712220779452">MLH WiCHacks Photos</a></li>
-			 </ul>
+			 WiCHacks17 to paint a better picture of the event!
+        </p>
+         <ul>
+            <li><a href="https://www.facebook.com/wic.hacks.rit/posts/1204587552987423">WiCHacks 2017</a></li>
+            <li><a href="https://www.facebook.com/pg/MajorLeagueHacking/photos/?tab=album&album_id=1392712220779452">MLH WiCHacks Photos</a></li>
+         </ul>
+        <h3>Want to keep up with the plans for WiCHacks 2018? Sign up <a href="https://docs.google.com/a/g.rit.edu/forms/d/1m9iiJHQfPDUsvzSHVKbVS4ROC8WTn_kIe1qYK5D0mAo">here</a>!</h3>
 	</div>
 
 
@@ -24,7 +26,7 @@
 			<li>Do you want to have fun and try something new? </li>
 		</ul>
 		<p class="large">If you answered yes to any of the above questions, join RIT Women in
-		Computing at <b>Newbie Track is on Friday, February 24th. WiCHacks on Saturday and Sunday, February 25th and 26th, 2017 at RIT</b>!</p>
+		Computing at <b>Newbie Track is TBD. WiCHacks on TBD at RIT</b>!</p>
 	</div>
 
  <div class="row">
